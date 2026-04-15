@@ -10,5 +10,4 @@
 | Sistema      | Windows                                       |
 
 ## O que aprendi hoje
-a praticar os comandos da aula teórica
-Mais alguma informação aqui.
+Criação de uma branch pessoal, Edição de Arquivos .md, Commit de Arquivos
