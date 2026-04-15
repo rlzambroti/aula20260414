@@ -10,5 +10,4 @@
 | Sistema      | Windows                                       |
 
 ## O que aprendi hoje
-a praticar os comandos da aula teórica
-Mais alguma informação aqui.
+aprendi a como clona um repositorio no meu computador, entra na pasta pelo terminal, dar comiit, dar branch 
