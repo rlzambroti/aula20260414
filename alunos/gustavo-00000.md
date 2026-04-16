@@ -9,5 +9,7 @@
 | Sistema      | Windows                                       |
 
 ## o que eu aprendi
-
-
+1.a clonar repositorio 
+2.criar branch 
+3.fazer alteraçoes e desfazer via linha de codigo 
+4.fazer commit, push a
