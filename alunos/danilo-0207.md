@@ -15,3 +15,7 @@
 3. até eu dar push, o commit está na minha branch local
 4. o add . é bem bom, mas pode ser perigoso dependendo do que coloca-se na pasta
 5. gitignore é bom, ainda mais se estiver trabalhando em um projeto sem gitignore e colocar o seu gitignore para ignorar a ele mesmo
+
+## Hashs
+- Hash do Initial commit: cb9d12a
+- Hash do Primeiro commit: 55230ae
